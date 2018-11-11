@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016184428344",
+    "firebase_url": "https://dev-fest-2018.firebaseio.com",
+    "project_id": "dev-fest-2018",
+    "storage_bucket": "dev-fest-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016184428344:android:23219bcd05e1fd96",
+        "android_client_info": {
+          "package_name": "com.gdgmientrung.devfest18.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016184428344-f3cerojm6cfbphq6c8e2vq05h8n7tkod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgmientrung.devfest18.firebasedemo",
+            "certificate_hash": "c6bc9ec8515a1fdf8e49f23e4794413d9753732d"
+          }
+        },
+        {
+          "client_id": "1016184428344-jasj2bhctrmaic9aprl3l9etroe361sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxKaIA6RIjgUG85XQ_skfzBg94z71sso8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016184428344-jasj2bhctrmaic9aprl3l9etroe361sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
